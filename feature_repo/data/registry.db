@@ -1,0 +1,35 @@
+
+y
+Y
+customer_idUnique customer identifier"customer_idJCustomerChurnPredictionPipeline
+ß’¦ÅÀ™ß’¦ÅÀ™
+V
+6
+__dummy"
+__dummy_idJCustomerChurnPredictionPipeline
+ß’¦ÅÀ™ß’¦ÅÀ™1"$5ef9abc3-a365-40ce-8bce-e3b4c54c65b0*«š¦Åğğ¯à2£
+ê
+loan_featuresCustomerChurnPredictionPipelinecustomer_id"
+age"Customer age"&
+job_type_encoded"Encoded job type"2
+marital_status_encoded"Encoded marital status"6
+educational_level_encoded"Encoded education level"#
+
+age_binned"Binned age category"6
+avg_yearly_balance"Average yearly account balance"&
+contacted_day"Day of last contact"*
+contacted_month"Month of last contact"?
+contacted_duration_sec"#Duration of last contact in seconds"0
+total_times_contacted"Total times contacted"%
+outcome"Outcome of last campaign"/
+credit_commitment"Credit commitment amount"<
+avg_yearly_balance_binned"Binned average yearly balance2€ç„:«event_timestampZ!data/customer_loan_info.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/customer_loan_info.parquet’š¦ÅÈ¥ı’"š¦Å˜Ö¿£@b
+customer_id4
+ß’¦ÅÀ™«š¦Åğğ¯à
+¨³¡¶àÑìş€‰¤ÅRâ
+ß
+,feast.infra.online_stores.sqlite.SqliteTable"®
+}C:\Ramesh\MTech\Semester 2\DMML\Assignment\solution\scripts\CustomerChurnPredictionPipeline\feature_repo\data\online_store.db-CustomerChurnPredictionPipeline_loan_featuresbÍevent_timestampZ!data/customer_loan_info.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢data/customer_loan_info.parquetªCustomerChurnPredictionPipeline’š¦ÅÈ¥ı’"š¦Å˜Ö¿£ŠA
+!
+CustomerChurnPredictionPipeline
+ß’¦Å âŠß’¦Å âŠ
